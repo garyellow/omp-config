@@ -5,7 +5,7 @@ My oh-my-posh configuration file
 A prompt theme engine for any shell.
 
 ## Other
-Font: [JetBrainMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) ([Source](https://www.nerdfonts.com/))
+Font: [JetBrainMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/JetBrainsMono.zip) ([Source](https://www.nerdfonts.com/))
 Reference: [atomic](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/atomic.omp.json)
 
 ![image](/theme.png)
