@@ -118,8 +118,8 @@ blocks:
         style: diamond
         invert_powerline: true
         leading_diamond: 
-        foreground: "#26C6DA"
-        background: "#546E7A"
+        background: "#b2bec3"
+        foreground: "#222222"
         options:
           linux: 
           macos: 
@@ -155,14 +155,10 @@ blocks:
         style: plain
         foreground: "#0077cc"
         template: ╰─
-      - type: status
+      - type: text
         style: plain
         foreground: "#0077cc"
-        foreground_templates:
-          - "{{ if gt .Code 0 }}#ef5350{{ end }}"
         template: 
-        options:
-          always_enabled: true
 transient_prompt:
   foreground: "#ffffff"
   background: transparent
