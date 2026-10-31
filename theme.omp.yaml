@@ -157,7 +157,7 @@ blocks:
         template: ╰─
       - type: status
         style: plain
-        foreground: "#e0f8ff"
+        foreground: "#0077cc"
         foreground_templates:
           - "{{ if gt .Code 0 }}#ef5350{{ end }}"
         template: 
